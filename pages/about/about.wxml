@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="about">
+  <text>产品名称：天气预报</text>
+  <text>数据来源：和风天气</text>
+  <text>开发时间：2016年11月</text>
+  </view>
+  <view class="about aboutme">
+    <text class="title">作者</text>
+    <text>GetWeApp</text>
+    <text class="title">官网</text>
+    <text>http://www.getweapp.com</text>
+
+    <text class="title">GitHub</text>
+    <text>https://github.com/getweapp</text>
+  </view>
+</view>
